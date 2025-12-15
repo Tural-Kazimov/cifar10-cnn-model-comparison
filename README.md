@@ -48,4 +48,4 @@
 ### 1) Клонирование
 ```bash
 git clone https://github.com/Tural-Kazimov/cifar10-cnn-model-comparison.git
-cd <YOUR_REPO_FOLDER>
+cd <YOUR_REPO_FOLDER> 
